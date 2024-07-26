@@ -1,0 +1,13 @@
+# Ignore node_modules directories
+frontend/Social-community-MERN-Starter-Pack/node_modules/
+backend/mongodb-nextjs-server-starter/node_modules/
+
+# Other common node-related ignores
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore build directories
+frontend/Social-community-MERN-Starter-Pack/build/
+backend/mongodb-nextjs-server-starter/build/
